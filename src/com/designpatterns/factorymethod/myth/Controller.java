@@ -1,8 +1,5 @@
 package com.designpatterns.factorymethod.myth;
 
-import com.designpatterns.factorymethod.MythViewEngine;
-import com.designpatterns.factorymethod.ViewEngine;
-
 import java.util.Map;
 
 public class Controller {

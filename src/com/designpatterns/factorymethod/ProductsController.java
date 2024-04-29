@@ -1,6 +1,7 @@
-package com.designpatterns.factorymethod.myth;
+package com.designpatterns.factorymethod;
 
-import com.designpatterns.factorymethod.MythViewEngine;
+import com.designpatterns.factorymethod.myth.Controller;
+import com.designpatterns.factorymethod.myth.MythViewEngine;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.designpatterns.factorymethod;
+package com.designpatterns.factorymethod.myth;
 
 import java.util.Map;
 
